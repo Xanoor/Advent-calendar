@@ -1,8 +1,8 @@
-fx_version 'cerulean'
+fx_version 'adamant'
 
 game 'gta5'
 author 'Xanoor1#8111 (https://discord.gg/nj8DuncnJx)'
-description 'Advent Calendar '
+description 'Advent Calendar'
 
 version '1.0'
 
