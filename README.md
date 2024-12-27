@@ -1,5 +1,7 @@
 # Advent-calendar
 <b>Advent calendar for FiveM</b>
+> **⚠️ This is an old project, and it may no longer be compatible with the current version of ESX or FiveM. ⚠️**  
+> **This project is no longer maintained and may not receive updates or support.**
 
 ## CONTENTS
 * [Setup](#setup)
@@ -45,11 +47,4 @@ CREATE TABLE `calendar` (
 
 ```
 /calendar in F8 / chat to open calendar.
-```
-
-# 😀Contacts
-
-```
-Discord: Xanoor1#8111
-Discord server: https://discord.gg/nj8DuncnJx
 ```
